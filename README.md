@@ -6,6 +6,7 @@ Um simples projeto de terminal utilizando **Java** afim de por um prática  todo
 
 ## Conceitos abordados
 
+- Construtores
 - Encapsulamento
 - Associações entre objetos
 
