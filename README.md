@@ -7,7 +7,9 @@ Um simples projeto de terminal utilizando **Java** afim de por um prática  todos
 ## Conceitos abordados
 
 - Construtores
+- Modificadores (static)
 - Encapsulamento
+- Enums
 - Associações entre objetos
 
 ## Estruturas de dados
