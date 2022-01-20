@@ -8,7 +8,9 @@ Um simples projeto de terminal utilizando **Java** afim de por um prática  todos
 
 - Construtores
 - Modificadores (static)
+- Herança
 - Encapsulamento
+- Polimorfismo
 - Enums
 - Associações entre objetos
 
