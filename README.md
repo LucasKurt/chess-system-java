@@ -11,6 +11,7 @@ Um simples projeto de terminal utilizando **Java** afim de por um prática alguns
 - Herança
 - Encapsulamento
 - Polimorfismo
+- Abstração
 - Enums
 - Associações entre objetos
 - Tratamento de exceções
