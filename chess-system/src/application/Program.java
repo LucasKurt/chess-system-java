@@ -36,11 +36,11 @@ public class Program {
 				
 			} catch (ChessException e) {
 				System.err.println(e.getMessage());
-				System.out.println("press \"Enter\" to continue...");
+				System.out.print("press \"Enter\" to continue... ");
 				sc.nextLine();				
 			} catch (InputMismatchException e) {
 				System.err.println(e.getMessage());
-				System.out.println("press \"Enter\" to continue...");
+				System.out.print("press \"Enter\" to continue... ");
 				sc.nextLine();
 			}
 		}
