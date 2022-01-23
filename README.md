@@ -19,6 +19,7 @@ Um simples projeto de terminal utilizando **Java** afim de por um prática alguns
 ## Estruturas de dados
 
 - Matriz
+- Lista
 
 <!-- ## Como executar o projeto 
 
