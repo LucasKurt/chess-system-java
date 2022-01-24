@@ -23,7 +23,7 @@ public class Program {
 			System.out.println("Use in a terminal that supports ANSI escape codes");
 		}
 
-		while (true) {
+		while (!chessMatch.getCheckmate()) {
 			try {
 				UI.clearScreen();
 				UI.PrintMatch(chessMatch, captured);
@@ -55,6 +55,9 @@ public class Program {
 				sc.nextLine();
 			}
 		}
+		UI.clearScreen();
+		UI.PrintMatch(chessMatch, captured);
+		sc.close();
 	}
 
 }
