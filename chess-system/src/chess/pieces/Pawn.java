@@ -5,6 +5,10 @@ import boardgame.Position;
 import chess.ChessPiece;
 import chess.Color;
 
+/*
+ * Pawn é o peão
+ */
+
 public class Pawn extends ChessPiece {
 
 	public Pawn(Board board, Color color) {

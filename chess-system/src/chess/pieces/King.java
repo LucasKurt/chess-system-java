@@ -5,6 +5,10 @@ import boardgame.Position;
 import chess.ChessPiece;
 import chess.Color;
 
+/*
+ * King é o rei
+ */
+
 public class King extends ChessPiece {
 
 	public King(Board board, Color color) {
