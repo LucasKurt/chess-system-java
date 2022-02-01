@@ -2,19 +2,19 @@
 
 ## Sobre o Projeto
 
-Um simples projeto de terminal utilizando **Java** afim de por um prática alguns conceitos de  **Orientação a Objetos**, e algumas **estruturas de dados**.
+Um simples projeto de terminal utilizando **Java** afim de por um prÃ¡tica alguns conceitos de  **OrientaÃ§Ã£o a Objetos**, e algumas **estruturas de dados**.
 
 ## Conceitos abordados
 
+- MÃ©todos estÃ¡ticos
 - Construtores
-- Modificadores (static)
-- Herança
+- HeranÃ§a
 - Encapsulamento
 - Polimorfismo
-- Abstração
+- AbstraÃ§Ã£o
 - Enums
-- Associações entre objetos
-- Tratamento de exceções
+- AssociaÃ§Ãµes entre objetos
+- Tratamento de exceÃ§Ãµes
 
 ## Estruturas de dados
 
